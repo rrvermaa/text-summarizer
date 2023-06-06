@@ -140,6 +140,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# dataset
+research/samsum_dataset/
+
 # mypy
 .mypy_cache/
 .dmypy.json
